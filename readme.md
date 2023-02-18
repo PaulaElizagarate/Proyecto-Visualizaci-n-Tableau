@@ -51,5 +51,5 @@ To use this Tableau project, simply open the link of `Tableau Project`. The data
 For more information, suggestions or doubts please feel free to contact me:
 [Paula Elizagarate](https://www.linkedin.com/in/paulaelizagarate/)
 
-![](<iframe src="https://giphy.com/embed/fJMWN7XnZM0hO" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doubt-doubtful-fJMWN7XnZM0hO">via GIPHY</a></p>)
+[](https://www.reactiongifs.com/r/dbts.gif)
 
