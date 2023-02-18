@@ -39,7 +39,7 @@ The Tableau workbook contains several visualizations and dashboards to explore t
 
 ## Conclusions
 
-[images/Conclusion.png](https://github.com/PaulaElizagarate/Proyecto-Visualizaci-n-Tableau/blob/93ac69f0a93117058cefefa20a8c00964efb2c9e/images/Conclusion.png)
+![](https://github.com/PaulaElizagarate/Proyecto-Visualizaci-n-Tableau/blob/93ac69f0a93117058cefefa20a8c00964efb2c9e/images/Conclusion.png)
 
 
 ## How to Use
