@@ -16,7 +16,7 @@ The data used in this project was obtained from a variety of sources, including:
 The following technologies were used to create this project:
 
 - Tableau Desktop.
-- [Pandas library in Python](notebook/).
+- [Pandas library in Python](https://github.com/PaulaElizagarate/Proyecto-Visualizaci-n-Tableau/blob/main/notebook/Nueva%20Estructura%20Datos.ipynb).
 - Jupyter Notebook.
 
 ## Project Structure
