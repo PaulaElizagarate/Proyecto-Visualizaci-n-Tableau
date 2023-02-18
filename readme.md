@@ -45,3 +45,6 @@ The Tableau workbook contains several visualizations and dashboards to explore t
 ## How to Use
 
 To use this Tableau project, simply open the link of `Tableau Project`. The data used in the project is stored in CSV files in the `data/` directory, which can be updated by re-running the Jupyter notebooks in the `notebooks/` directory if new data becomes available.
+
+For more information, suggestions or doubts please feel free to contact me:
+[Paula Elizagarate](https://www.linkedin.com/in/paulaelizagarate/)
