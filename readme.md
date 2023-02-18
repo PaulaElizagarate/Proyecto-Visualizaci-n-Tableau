@@ -38,7 +38,7 @@ The Tableau workbook contains several visualizations and dashboards to explore t
 
 ## Conclusions
 
-![](/Proyecto Visualizaci-n-Tableau/images/conclusion.png)
+![](/Users/paulaelizagarate/Proyecto-Visualizaci-n-Tableau/images/conclusion.png)
 
 
 ## How to Use
