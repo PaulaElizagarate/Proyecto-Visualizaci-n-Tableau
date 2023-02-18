@@ -17,6 +17,7 @@ The following technologies were used to create this project:
 
 - Tableau Desktop.
 - [Pandas library in Python](https://github.com/PaulaElizagarate/Proyecto-Visualizaci-n-Tableau/blob/main/notebook/Nueva%20Estructura%20Datos.ipynb).
+- [Numpy library in Python](https://github.com/PaulaElizagarate/Proyecto-Visualizaci-n-Tableau/blob/main/notebook/Nueva%20Estructura%20Datos.ipynb).
 - Jupyter Notebook.
 
 ## Project Structure
