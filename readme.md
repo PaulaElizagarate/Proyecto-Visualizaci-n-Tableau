@@ -6,10 +6,10 @@ This Tableau project visualizes demographic data from around the world, includin
 
 The data used in this project was obtained from a variety of sources, including:
 
-- Expansión.
-- Numbeo.
-- World Air Quality Index.
-- Kaggle.
+- [Expansión Natalidad](https://datosmacro.expansion.com/demografia/natalidad?anio=2021).
+- [Numbeo Cost of Living](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2021).
+- [World Air Quality Index](https://www.iqair.com/world-air-quality-ranking).
+- [Kaggle](https://www.kaggle.com/datasets/ramjasmaurya/most-polluted-cities-and-countries-iqair-index).
 
 ## Technology Used
 
