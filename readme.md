@@ -24,7 +24,7 @@ The following technologies were used to create this project:
 The project is organized into the following files and directories:
 
 - [`data/`](data/): contains the raw data used in the project.
-- `notebooks/`: contains the Jupyter notebooks used to extract and clean the data.
+- [`notebook/`](notebook/): contains the Jupyter notebooks used to extract and clean the data.
 - `Tableau Project`: [Mi dashboard](https://public.tableau.com/app/profile/paula.elizagarate.novoa/viz/Proyecto_16757152811950/CostedeVida?publish=yes)
 
 ## Visualizations
